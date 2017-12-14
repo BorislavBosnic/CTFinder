@@ -1,0 +1,50 @@
+﻿51	konge rene 2	--V--	29,521,321	Skriv besked
+52	balder		29,475,541	Skriv besked
+53	Mirakelmager JBFO-2	ONE	28,812,362	Skriv besked
+54	Admiral neki tamo igrac		28,505,031	
+55	Tower	THH	28,343,950	Skriv besked
+56	Trescal		27,898,145	Skriv besked
+57	kikkenborg	UFPR	27,562,250	Skriv besked
+58	jasi	Guder	27,516,065	Skriv besked
+59	Numnot	PAVA	27,220,579	Skriv besked
+60	Barbarernes hammer jna4all		27,047,493	Skriv besked
+61	suntrader	KGB	26,544,125	Skriv besked
+62	Herkules` Overmand alocard		25,933,911	Skriv besked
+63	Grossist Ford	--B--	25,837,571	Skriv besked
+64	Kejser Schou		25,714,101	Skriv besked
+65	Mastermind Feltmarskal		25,602,008	Skriv besked
+66	King P	--V--	25,561,168	Skriv besked
+67	erlierik	U-T	25,470,104	Skriv besked
+68	prætorius	F-T	25,384,536	Skriv besked
+69	Velgører Karpete	SMALL	25,187,331	Skriv besked
+70	konge rene 3	--V--	25,126,027	Skriv besked
+71	Marathonløber MyOwn	TMN	24,753,427	Skriv besked
+72	Kim Puma  	T-F	24,698,130	Skriv besked
+73	Mastermind The Phoenix	PhX	24,354,787	Skriv besked
+74	John Nielsen		24,308,596	Skriv besked
+75	Mirakelmager Fætter Højben	F-T	24,251,615	Skriv besked
+76	Barbarernes hammer JesloTj		24,184,551	Skriv besked
+77	Sisyfos kenbt	THH	23,931,621	Skriv besked
+78	Annilis	WB-P	23,885,764	Skriv besked
+79	Mirakelmager Lektor  	TPA	23,801,787	Skriv besked
+80	Smølf		23,746,791	Skriv besked
+81	Pointjæger jimmie	F-T	23,591,626	Skriv besked
+82	De syv haves svøbe Tommelise	--B--	23,412,323	Skriv besked
+83	Kejser eigenwert	F-T	23,338,214	Skriv besked
+84	Barbarernes svøbe Tobo2		23,177,702	Skriv besked
+85	Mastermind Tah Halo	-MI-	23,121,250	Skriv besked
+86	konge rene	--V--	23,114,445	Skriv besked
+87	Asbjørn	WB-P	23,063,086	Skriv besked
+88	Mastermind stiffler	SMALL	23,046,116	Skriv besked
+89	Boblebåt	sYv	23,012,753	Skriv besked
+90	anni	--V--	22,859,546	Skriv besked
+91	løven	Guder	22,641,528	Skriv besked
+92	Stegtflæsk	--V--	22,615,070	Skriv besked
+93	Sambo	UFPR	22,376,347	Skriv besked
+94	chrdkenn		22,242,186	Skriv besked
+95	Krystallets Herre aza	--V--	22,042,996	Skriv besked
+96	Luca Brasi	WB-P	21,950,521	Skriv besked
+97	Admiral Kapetan Dragan	TPA	21,927,257	Skriv besked
+98	Velgører Buchanan	DIP	21,923,604	Skriv besked
+99	Clemenza	WB-P	21,732,011	Skriv besked
+100	Hugoline	TMN	21,723,906	Skriv besked
